@@ -14,7 +14,7 @@ Namaste,
 <div allign="center">
   <img src="https://www.pngwing.com/en/search?q=programmer" width="750" height="300"/>
 </div>
-----------
+---
 👩‍💻 About me:
 - 💻 full stack developer
 - ⚡ In my free time,I solve problems on GreeksforGeeks,HackRank and read articles on tech.
@@ -35,5 +35,5 @@ Namaste,
 </div>
 ------
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManaviP&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManaviP&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnaviP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
