@@ -19,8 +19,9 @@ Namaste,
 - 💻 full stack developer
 - ⚡ In my free time,I solve problems on GreeksforGeeks,HackRank and read articles on tech.
 - 📧 How to reach me : [![gmail badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gamail&logoColor=white)](manavimunnuraya11@gmail.com)
------
-### 🛠️ Languages and Tools :
+---
+
+### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,3 +38,18 @@ Namaste,
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManaviP&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnaviP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### other
+<a href="https://ra1nbow.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+</a>
+<a href="https://ManaviP.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaviP&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://ManaviP.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/ManaviP/count.svg" />
+  </a>
+</p>
