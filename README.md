@@ -1,4 +1,4 @@
-# Read_me
+# Namaste 🙋‍♀️
 <div id="badges">
   <a href="https://www.linkedin.com/in/manavi-p-576a8b279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Namaste,
+
 <div allign="center">
   <img src="https://www.123rf.com/photo_89704735_cartoon-programmer-writes-code-workspace-concept-vector.html" width="750" height="300"/>
 </div>
@@ -37,7 +37,7 @@ Namaste,
 ### 🔥 My Stats :
 
 <a href="https://ra1nbow.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ManaviP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
 <a href="https://ManaviP.xyz?ref=github">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaviP&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
