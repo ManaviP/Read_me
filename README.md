@@ -12,14 +12,13 @@
 </div>
 Namaste,
 <div allign="center">
-  <img src="https://www.pngwing.com/en/search?q=programmer" width="750" height="300"/>
+  <img src="[banner](https://www.123rf.com/photo_89704735_cartoon-programmer-writes-code-workspace-concept-vector.html)" width="750" height="300"/>
 </div>
----
-👩‍💻 About me:
+
+### 👩‍💻 About me:
 - 💻 full stack developer
 - ⚡ In my free time,I solve problems on GreeksforGeeks,HackRank and read articles on tech.
-- 📧 How to reach me : [![gmail badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gamail&logoColor=white)](manavimunnuraya11@gmail.com)
----
+
 
 ### Languages
 <div>
@@ -36,10 +35,7 @@ Namaste,
 </div>
 ------
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManaviP&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnaviP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### other
 <a href="https://ra1nbow.xyz?ref=github">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
