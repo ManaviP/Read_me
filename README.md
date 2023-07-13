@@ -12,7 +12,7 @@
 </div>
 
 <div allign="center">
-  <img src="animated.PNG" width="750" height="300"/>
+  <img src="animated.PNG" />
 </div>
 
 ### 👩‍💻 About me:
