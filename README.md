@@ -12,7 +12,7 @@
 </div>
 
 <div allign="center">
-  <img src="https://www.123rf.com/photo_89704735_cartoon-programmer-writes-code-workspace-concept-vector.html" width="750" height="300"/>
+  <img src="animated.PNG" width="750" height="300"/>
 </div>
 
 ### 👩‍💻 About me:
